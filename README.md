@@ -31,7 +31,7 @@ This project demonstrates how to synthesize a **composite human face** by blendi
 ## 🖼️ Sample Output
 
 <p align="center">
-  <img src="images/output.jpg" width="400" alt="Composite Face Output">
+  <img src="project/faceaverage/output.jpg" width="400" alt="Composite Face Output">
 </p>
 
 ## 📁 Folder Structure
