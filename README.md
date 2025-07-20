@@ -36,3 +36,14 @@ This project demonstrates how to synthesize a **composite human face** by blendi
 
 ## 📁 Folder Structure
 
+project/
+│
+├── presidents/ # Input images and its facial landmarks
+├── composite_face.py # Main script
+├── gui.py # alignment function
+├── gui2.py# blending function
+├── output_img #output image 
+└── README.md # This file
+
+
+
