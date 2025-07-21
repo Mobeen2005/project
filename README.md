@@ -45,5 +45,16 @@ project/
 ├── output_img #output image 
 └── README.md # This file
 
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mdmobeen2005/project.git
+   cd project
+## Run the script
+python faceaverage.py
+
+
+
 
 
